@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       在线
+domain-ace:   XN--3DS443G
+
+organisation: TLD REGISTRY LIMITED
+address:      2 Grand Canal Square
+address:      Dublin Dublin 2
+address:      Ireland
+
+contact:      administrative
+name:         CEO
+organisation: TLD Registry Ltd.
+address:      2 Grand Canal Square
+address:      Dublin Dublin 2
+address:      Ireland
+phone:        +358 44 7301 607
+fax-no:       +358 20 155 8869
+e-mail:       arto.isokoski@internetregistry.info
+
+contact:      technical
+name:         CTO
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
+address:      China
+phone:        +86 13811939493
+e-mail:       gtld@teleinfo.cn
+
+nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
+nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
+nserver:      NS3.TELEINFO.CN 103.61.62.1
+nserver:      NS4.TELEINFOO.COM 103.61.63.1
+ds-rdata:     27565 8 2 b0e469c6095b437074bfc7ebc7ab15ed6434662aab72c95d45e110d44233edb2
+
+whois:        whois.teleinfo.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://internetregistry.info/
+
+created:      2013-12-19
+changed:      2024-05-06
+source:       IANA
+
