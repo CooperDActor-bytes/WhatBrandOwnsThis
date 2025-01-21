@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GE
+
+organisation: Caucasus Online LLC
+address:      160 Tsimandzgvrishvili st.
+address:      Tbilisi 0112
+address:      Georgia
+
+contact:      administrative
+name:         Khatuna Shubitidze
+organisation: Caucasus Online LLC
+address:      160 Tsimandzgvrishvili st.
+address:      Tbilisi 0112
+address:      Georgia
+phone:        +995 599 48 65 14
+e-mail:       info@nic.ge
+
+contact:      technical
+name:         Viktor Mazmanov
+organisation: Caucasus Online LLC
+address:      160 Tsimandzgvrishvili st.
+address:      Tbilisi 0112
+address:      Georgia
+phone:        +995 577 208045
+e-mail:       v.mazmanov@co.ge
+
+nserver:      NS.NIC.GE 212.72.130.11
+nserver:      NS1.NIC-GE.COM 3.66.58.155
+nserver:      NS2.NIC-GE.COM 35.153.81.228
+nserver:      NS2.NIC.GE 185.19.98.98
+
+whois:        whois.nic.ge
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.ge
+
+created:      1992-12-02
+changed:      2023-05-18
+source:       IANA
+

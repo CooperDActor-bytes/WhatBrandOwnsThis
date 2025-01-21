@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VISA
+
+organisation: Visa Worldwide Pte. Limited
+address:      71 ROBINSON ROAD Unit #09-01
+address:      068895
+address:      Singapore
+
+contact:      administrative
+name:         Domain Name Specialist
+organisation: Visa Worldwide Pte. Limited
+address:      71 ROBINSON ROAD Unit #09-01
+address:      068895
+address:      Singapore
+phone:        +65 6437 5800
+fax-no:       +1 650 554 3980
+e-mail:       ngtld-visa@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.VISA 2a01:8840:6a:0:0:0:0:20 65.22.108.20
+nserver:      V0N1.NIC.VISA 2a01:8840:6b:0:0:0:0:20 65.22.109.20
+nserver:      V0N2.NIC.VISA 2a01:8840:6c:0:0:0:0:20 65.22.110.20
+nserver:      V0N3.NIC.VISA 161.232.32.20 2a01:8840:108:0:0:0:0:20
+nserver:      V2N0.NIC.VISA 2a01:8840:6d:0:0:0:0:20 65.22.111.20
+nserver:      V2N1.NIC.VISA 161.232.33.20 2a01:8840:109:0:0:0:0:20
+ds-rdata:     61366 8 2 94d6f007f7a3cd81d061701497a7e54f801a495e219370723bab6f2707b68d6e
+
+whois:        whois.nic.visa
+
+status:       ACTIVE
+remarks:      Registration information: http://visa.com
+
+created:      2016-06-30
+changed:      2024-11-15
+source:       IANA
+
